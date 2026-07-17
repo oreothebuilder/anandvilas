@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 17 Jul 2026 16:25:00 at https://voluntary-lynx-271694.framer.app/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://voluntary-lynx-271694.framer.app/ -O1 "C:\Users\ASUS\Desktop\VS CODE\ANAND VILLAS\ANAND VILLAS HOSTELL" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:25:07	Error: 	"Not Found" (404) at link https://voluntary-lynx-271694.framer.app/{"pre":[],"integer":[{"type":"integer","value":4,"key":"integer:1","pos":1},{"type":"integer","value":5,"key":"integer:0","pos":0}],"fraction":[],"post":[{"type":"suffix","value":"+","key":"suffix:0"}],"valueAsString":"45+","value":45} (from https://voluntary-lynx-271694.framer.app/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 seconds : 22 links scanned, 20 files written (9641260 bytes overall) [9439528 bytes received at 1348504 bytes/sec], 416646 bytes transferred using HTTP compression in 3 files, ratio 13%, 3.6 requests per connection
+(1 errors, 0 warnings, 0 messages)
